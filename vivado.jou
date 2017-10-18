@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Wed Oct 18 14:47:10 2017
+# Process ID: 4012
+# Current directory: D:/Document/FPGA Code/FMC151
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14900 D:\Document\FPGA Code\FMC151\FMC151.xpr
+# Log file: D:/Document/FPGA Code/FMC151/vivado.log
+# Journal file: D:/Document/FPGA Code/FMC151\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Document/FPGA Code/FMC151/FMC151.xpr}
+update_compile_order -fileset sources_1
